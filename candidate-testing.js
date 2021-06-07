@@ -38,8 +38,6 @@ function gradeQuiz(candidateAnswers) {
 
   let grade = 
 
-
-  return grade;
 }
 
 function runProgram() {
